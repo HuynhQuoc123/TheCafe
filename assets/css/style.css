@@ -28,10 +28,12 @@
  nav ul li {
      float: left;
      width: 25%;
-     padding: 8px;
  }
  
  nav ul li a {
+      display:block;
+     padding: 8px;
+      
      text-decoration: none;
      color: #fff;
      text-transform: uppercase;
